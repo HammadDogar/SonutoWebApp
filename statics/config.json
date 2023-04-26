@@ -11,6 +11,7 @@
     "audience":"http://localhost:1337",
     "responseType":"token id_token",
     "scope":"openid profile",
-    "logoutUrl": "http://localhost:8080/welcome"
+    "logoutUrl": "http://localhost:8080/welcome",
+    "apolloUri": "http://localhost:1337/graphql"
   }
 }
