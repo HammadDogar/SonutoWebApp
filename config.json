@@ -1,0 +1,17 @@
+{
+  "Api": {
+    "BaseUrl": "https://sonuto-developapi.azurewebsites.net/",
+    "UserName": "tapendras",
+    "Password": "Comp@123",
+    "BlobBaseUrl": "https://sonutostorage.blob.core.windows.net/photos/assets/",
+    "RocketChatUrl": "https://sonuto.rocket.chat/channel/general",
+    "domain":"dev-clwl-d33.us.auth0.com",
+    "clientID":"aM9eYv6zqyjkTmr7YQPqUT1o3Oir68xL",
+    "redirectUri":"http://localhost:8080",
+    "audience":"http://localhost:1337",
+    "responseType":"token id_token",
+    "scope":"openid profile",
+    "logoutUrl": "http://localhost:8080/welcome",
+    "apolloUri": "http://localhost:1337/graphql"
+  }
+}
